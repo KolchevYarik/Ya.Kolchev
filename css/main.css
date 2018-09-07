@@ -1,0 +1,50 @@
+h2{
+  font-size: 50px;
+color: green;
+}
+.container {
+  width:1200px;
+  margin: 0 auto;
+  border: 0px solid red;
+}
+header{
+  background: url(../img/first-bg.jpg) no-repeat center top/cover;
+}
+h1{
+  font-size: 70px;
+  color: white;
+  text-align: center;
+  text-transform:uppercase;
+  font-family: Arial,sans-serif;
+  margin-top: 30px;
+  padding-top: 0px;
+}
+*{
+  margin:0;
+  padding:0;
+}
+.first_title{
+  font-family: 'Gamja Flower', cursive;
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  padding-top: 180px;
+  font-style: italic;
+}
+.button{
+  background: #fed136;
+  color: #484543;
+  display: block;
+  width: 240px;
+  padding: 20px 0;
+  margin: auto;
+  border-radius: 3px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 50px;
+
+}
